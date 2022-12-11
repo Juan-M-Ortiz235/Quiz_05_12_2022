@@ -1,0 +1,96 @@
+body{
+    margin: 0%;
+  }
+
+ul {
+    list-style-type: none;
+    position: static;
+    display: flex;
+    top: 0;
+    margin: 0px;
+    border: 0;
+    padding: 0px 0px 0px 30px;
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+    overflow: hidden;
+    justify-content:  left;
+
+  }
+
+
+
+  li a { 
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+  }
+
+  li a:hover {
+    background-color: rgb(65, 65, 65);
+  }
+
+  table {
+    border: 1px solid;
+    justify-content: center;
+    text-align: center;
+    padding: auto;
+
+    margin: auto;
+    border-collapse: collapse;
+  }
+
+  tr{
+    border: 1px solid;
+    margin: auto;
+  }
+
+  table tr td{
+    padding: 20px;
+  }
+
+  div{
+
+    justify-content: center;
+
+  }
+  
+  li label{
+    display: block;
+  }
+
+  input{
+    display: block;
+
+  }
+
+  .Client_List {
+
+    text-align: center;
+    padding: auto;
+    margin: 5%;
+    font-weight: bold;
+
+  }
+
+  #Tabla_Cliente{
+    margin: auto;
+    justify-content: center;
+  }
+
+  #NewClient{
+
+    text-align: center;
+    padding: auto;
+    margin: 5%;
+
+  }
+
+  #ClientDetails{
+    
+    text-align: center;
+    padding: auto;
+    margin: 5%;
+  }
+
